@@ -56,5 +56,10 @@
     - [My Data Science Online Learning Journey on Croursera](https://www.kdnuggets.com/2020/11/data-science-online-learning-journey-coursera.html)
     - [머신러닝 딥러닝 독학자료 모음 - teddylee777님의 machine-learning Repository](https://github.com/teddylee777/machine-learning) 
     - [한걸음 한걸음, 데이터 과학자(Data Scientist)가 되는 방법](https://theorydb.github.io/dev/2020/04/12/dev-competition-how-to-become-data-scientist/)
+  - Kaggle
+    - [페이스북 캐글 코리아 그룹](https://www.facebook.com/groups/KaggleKoreaOpenGroup)
+    - [캐글 코리아 블로그](https://kaggle-kr.tistory.com/)
+    - [Kaggle-knowhow](https://github.com/zzsza/Kaggle-knowhow)
+    - [한국인을 위한 (파이썬) 캐글 튜토리얼](https://github.com/seriousran/kaggle-for-korean)
 - 기타
   - [30대에 완성하면 좋은 3가지 능력](https://brunch.co.kr/@dryjshin/372)
