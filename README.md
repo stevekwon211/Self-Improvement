@@ -57,6 +57,7 @@
     - [머신러닝 딥러닝 독학자료 모음 - teddylee777님의 machine-learning Repository](https://github.com/teddylee777/machine-learning) 
     - [한걸음 한걸음, 데이터 과학자(Data Scientist)가 되는 방법](https://theorydb.github.io/dev/2020/04/12/dev-competition-how-to-become-data-scientist/)
     - [인공지능, 통계 관련 유용한 무료 강의 & 책 모음](http://www.datamarket.kr/xe/index.php?mid=board_fpbt85&page=1&document_srl=55766)
+    - [데이터 사이언스 스쿨](https://datascienceschool.net/intro.html)
   - Kaggle
     - [페이스북 캐글 코리아 그룹](https://www.facebook.com/groups/KaggleKoreaOpenGroup)
     - [캐글 코리아 블로그](https://kaggle-kr.tistory.com/)
